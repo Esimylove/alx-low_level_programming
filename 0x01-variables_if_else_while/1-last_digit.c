@@ -1,12 +1,12 @@
+#include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
-* main - show me print anytime the number is positive, zero, or negative
+*main - Entry point
 *
-* Description: I'm relying on the main function
-* this program prints"Programming is positive,zero,or negative
-* Return: 0
+*Description: print the value of n status:greater than, is zero and is not less
+*Return: Always O (Success)
+*
 */
 int main(void)
 {
