@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - main block
-*Description:this space prints the alphabet in lowercase and then in uppercase, followed by a new line.
+*Description:this space prints the alphabet in lowercase
 *
 *Return: 0
 *
