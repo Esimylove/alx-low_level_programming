@@ -1,15 +1,18 @@
 #include <stdio.h>
+#include <time.h>
 #include <stdlib.h>
 /**
 *main - main block
 *
-*Description: access any number and check its last digit, compare it with 5
+*Description: prints all single digit numbers of base 10 starting from 0,
+*
 *Return: 0
+*
 */
 int main(void)
 {
-char c = 'a';
-while (c <= 'z')
+char c = '0';
+while (c <= '9')
 {
 putchar(c);
 c++;
