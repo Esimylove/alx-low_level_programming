@@ -11,7 +11,7 @@ for (p = 0; p <= 98; p++)
 {
 for (q = p + 1; q <= 99; q++)
 {
-utchar((p / 10) + '0');
+putchar((p / 10) + '0');
 putchar((p % 10) + '0');
 putchar(' ');
 putchar((q / 10) + '0');
