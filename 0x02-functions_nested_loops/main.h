@@ -3,9 +3,6 @@ int print_sign(int n);
 #ifndef main_h_included
 
 #define main_h_included
-
-
-
 int _putchar(char);
 
 void print_alphabet(void);
@@ -31,35 +28,21 @@ void print_to_98(int n);
 void print_times_table(int n);
 
 void num(int r, int n);
-
-
-
 #endif
-
-
-
-
-
 #ifndef main_h
 
 #define main_h
-
-
-
 /*
  *
  *  * File: main.h
  *
- *   * Auth: Prince Yawson
+ *   * Auth: ESI HEARTWILL
  *
  *    * Desc: Header file containing declarations for all functions
  *
  *     *       used in the 0x02-functions_nested_loops directory.
  *
  *      */
-
-
-
 int _putchar(char c);
 
 void print_alphabet(void);
